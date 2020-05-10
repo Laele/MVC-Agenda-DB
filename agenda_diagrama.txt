@@ -1,0 +1,1 @@
+El diagrama para agenda no necesita de muchas tablas en este sistema, y los campos estan divididos lo más posible, por lo que no es necesario tener distintas tablas aplicando las diferentes normalizaciónes.
