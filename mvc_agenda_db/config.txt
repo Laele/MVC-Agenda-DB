@@ -1,0 +1,4 @@
+user:user
+password:user
+host:localhost
+database:agenda_db
